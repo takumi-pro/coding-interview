@@ -1,0 +1,33 @@
+GET http://localhost:8000/api/categories/ HTTP/1.1
+Content-Type: application/json
+
+###
+
+POST http://localhost:8000/api/categories/ HTTP/1.1
+Content-Type: application/json
+
+{
+  "company": "88944685-8068-dec5-ac91-2cb69c2c6888",
+  "name": "new!!",
+  "parent_category": null
+}
+
+###
+
+GET http://localhost:8000/api/categories/5f907b09-f314-40c0-88d5-7f98efd99fa7/ HTTP/1.1
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8000/api/categories/5f907b09-f314-40c0-88d5-7f98efd99fa7/ HTTP/1.1
+Content-Type: application/json
+
+{
+  "company": "88944685-8068-dec5-ac91-2cb69c2c6888",
+  "name": "werwerwerrrrrr",
+  "parent_category": null
+}
+
+###
+DELETE http://localhost:8000/api/categories/5f907b09-f314-40c0-88d5-7f98efd99fa7/ HTTP/1.1
+Content-Type: application/json
