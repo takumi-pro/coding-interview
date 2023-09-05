@@ -1,0 +1,47 @@
+[
+  {
+    "model": "companycategory.Company",
+    "pk": "88944685-8068-dec5-ac91-2cb69c2c6888",
+    "fields": {
+      "name": "ぐーぐる",
+      "created_at": "2022-07-28T00:31:09.732Z",
+      "updated_at": "2022-07-28T00:31:09.732Z"
+    }
+  },
+  {
+    "model": "companycategory.Company",
+    "pk": "b3224a73-9e0e-64b4-1e49-bc09d94514f8",
+    "fields": {
+      "name": "めた",
+      "created_at": "2022-07-28T00:31:09.732Z",
+      "updated_at": "2022-07-28T00:31:09.732Z"
+    }
+  },
+  {
+    "model": "companycategory.Company",
+    "pk": "25cc687b-562b-b7c6-4259-8a7f07af1581",
+    "fields": {
+      "name": "あっぷる",
+      "created_at": "2022-07-28T00:31:09.732Z",
+      "updated_at": "2022-07-28T00:31:09.732Z"
+    }
+  },
+  {
+    "model": "companycategory.Company",
+    "pk": "ab2b8a24-eb69-4755-d013-6fe7b49fe6a9",
+    "fields": {
+      "name": "あまぞん",
+      "created_at": "2022-07-28T00:31:09.732Z",
+      "updated_at": "2022-07-28T00:31:09.732Z"
+    }
+  },
+  {
+    "model": "companycategory.Company",
+    "pk": "5ad80cc2-957e-e4f2-3435-df38101933b2",
+    "fields": {
+      "name": "まいくろそふと",
+      "created_at": "2022-07-28T00:31:09.732Z",
+      "updated_at": "2022-07-28T00:31:09.732Z"
+    }
+  }
+]
